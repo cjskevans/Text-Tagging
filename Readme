@@ -1,0 +1,3 @@
+This is a project I created for my class Natural Language Processing in College. The purpose of this project is to take in training data on words 
+along with their part of speech (Ex: noun, pronoun, adjective, etc) and then using that data test new words on what part of speech they would most
+likely be. 
